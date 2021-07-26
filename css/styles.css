@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size: 175%;
+
+}
+
+h1 {
+    font-size: 5.625rem;
+    font-family: 'Sacremento', cursive;
+    line-height: 2;
+    margin: 1px auto 35px auto;
+}
+
+h2 {
+    color: #FF6767;
+    font-size: 2.0rem;
+    font-family: 'Sacremento', cursive;
+    line-height: 2;
+    margin: 20px auto 30px auto;
+}
+
+.cherry-blossom {
+    right: 100px;
+    top: 50px;
+    width: 12%;
+    margin: 50px auto 50px auto;
+
+}
+
+.top-container {
+    background-color: #FAAD80;
+    color: #FF6767;
+    position: relative;
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+
+.middle-container {
+    background-color: #FF6767;
+    text-align: center;
+    font-family: 'Sacremento', cursive;
+    padding-bottom: 75px;
+
+}
+
+.courses {
+    padding-right: 5em;
+
+}
+
+table {
+    border: 2px;
+}
